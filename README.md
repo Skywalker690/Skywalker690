@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🌱 I’m currently upskilling react.js<br><br>📫 How to reach me sanjoksiby0@gmail.com<br>                  I'm  Passionate MERN Stack Developer
+🌱 I’m currently upskilling react.js<br><br>📫 How to reach me sanjoksiby0@gmail.com<br>💻I'm  Passionate MERN Stack Developer
 
 
 ## 🌐 Socials:
