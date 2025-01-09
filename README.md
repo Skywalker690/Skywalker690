@@ -1,6 +1,6 @@
 <h3 align="center">A Passionate MERN Stack Developer</h3>
 
-- 🔭 I’m currently working on **dsfs**
+
 
 - 🌱 I’m currently learning **react.js**
 
