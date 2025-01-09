@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **sanjoksiby0@gmail.com**
 
