@@ -1,6 +1,6 @@
 <h3 align="center">A Passionate MERN Stack Developer </h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently upskilling in **React.js**
 
 - 📫 How to reach me **sanjoksiby0@gmail.com**
 
