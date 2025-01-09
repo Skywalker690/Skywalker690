@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently upskilling  **react.js**
 
 - 📫 How to reach me **sanjoksiby0@gmail.com**
 
