@@ -48,11 +48,15 @@ I'm currently focused on mastering Java backend frameworks, cloud infrastructure
 
 <h2><strong>📊 GitHub Stats</strong></h2>
 
-<img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=Skywalker690&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=skywalker690&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-<br/>
-  <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=Skywalker690&theme=dark&include_all_commits=true&count_private=true&layout=compact&langs_count=10&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Skywalker690&show_icons=true&theme=codeSTACKr&hide_border=true" alt="GitHub Stats"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Skywalker690&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Skywalker690&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="180" alt="languages graph"  />
+
+</div>
 
 
 <div align="center">
