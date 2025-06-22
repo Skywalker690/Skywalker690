@@ -23,7 +23,7 @@ Recently, I've been diving deep into distributed systems and event-driven archit
 </strong></p>
 
 <p><strong>
-My current tech stack includes Java, Spring Boot, Kafka, GraphQL,Postgresql, AWS, and Docker. I'm on a journey to master cloud-native backend engineering and become a high-impact Java + Cloud Developer.
+My current tech stack includes Java, Spring Boot, Kafka, Graphql, Postgresql, AWS, and Docker. I'm on a journey to master cloud-native backend engineering and become a high-impact Java + Cloud Developer.
 </strong></p>
 
 <h2><strong>About Me</strong></h2>
