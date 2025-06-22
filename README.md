@@ -2,7 +2,7 @@
   👋 <span style="color:#007BFF;">Hi There, I’m <strong>Sanjo </strong></span>
 </h1>
 
-<h3><b>Check out my Portfolio</b> <a href="https://cheery-dodol-c1a5d8.netlify.app/">Sanjo</a></h3>
+<h3><b>Check out my Portfolio</b> <a target='_blank' href="https://cheery-dodol-c1a5d8.netlify.app/">Sanjo</a></h3>
 
 
 <div align="center">
