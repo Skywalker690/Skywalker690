@@ -1,4 +1,4 @@
-<h1 style="color: #FF5733;">
+<h1 style="color: cyan;">
   👋 <span style="color:#007BFF;">Hi There, I’m <strong>Sanjo </strong></span>
 </h1>
 
@@ -23,7 +23,7 @@ Recently, I've been diving deep into distributed systems and event-driven archit
 </strong></p>
 
 <p><strong>
-My current tech stack includes Java, Spring Boot, Kafka, MySQL, AWS, and Docker. I'm on a journey to master cloud-native backend engineering and become a high-impact Java + Cloud Developer.
+My current tech stack includes Java, Spring Boot, Kafka, GraphQL,Postgresql, AWS, and Docker. I'm on a journey to master cloud-native backend engineering and become a high-impact Java + Cloud Developer.
 </strong></p>
 
 <h2><strong>About Me</strong></h2>
