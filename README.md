@@ -1,4 +1,4 @@
-<h1 style="color: cyan;">
+<h1 align='center' style="color: cyan;">
   👋 <span style="color:#007BFF;">Hi There, I’m <strong>Sanjo </strong></span>
 </h1>
 
