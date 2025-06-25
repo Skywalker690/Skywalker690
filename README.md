@@ -53,11 +53,16 @@ I'm currently focused on mastering Java backend frameworks, cloud infrastructure
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Skywalker690&show_icons=true&theme=codeSTACKr&hide_border=true" alt="GitHub Stats"/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Skywalker690&theme=codeSTACKr&hide_border=true"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Skywalker690&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="180" alt="languages graph"  />
+  <!-- GitHub Stats for Skywalker690 (Dark Mode Only) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Skywalker690/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/Skywalker690/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+</p>
+
+
 
 </div>
 
