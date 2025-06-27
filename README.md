@@ -54,7 +54,7 @@ I'm currently focused on mastering Java backend frameworks, cloud infrastructure
 <div align="center">
 
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Skywalker690&theme=codeSTACKr&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=skywalker690&show_icons=true&theme=codeSTACKr&hide_border=true" alt="GitHub Stats"/>
 
   <!-- GitHub Stats for Skywalker690 (Dark Mode Only) -->
 <p align="center">
