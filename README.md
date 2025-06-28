@@ -67,7 +67,9 @@ I'm currently focused on mastering Java backend frameworks, cloud infrastructure
 </div>
 
 
-<!--<div align="center">
+<!--
+
+<div align="center">
   <br/><br/>
   <p>
     <a href="https://buymeacoffee.com/skywalker690">
@@ -75,4 +77,5 @@ I'm currently focused on mastering Java backend frameworks, cloud infrastructure
     </a>
   </p>
 </div>
+
 -->
