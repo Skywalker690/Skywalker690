@@ -45,7 +45,7 @@ I'm currently focused on mastering Java backend frameworks, cloud infrastructure
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,postman,kafka,graphql,aws,idea,git" />
   <br/><br/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,react,mongodb,vercel,npm,python,javascript,c,firebase,nodejs,mysql,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,react,mongodb,vercel,npm,python,javascript,c,fastapi,vite,firebase,nodejs,mysql,github,vscode&perline=8" />
   <br/>
 </div>
 
