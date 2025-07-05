@@ -8,6 +8,10 @@
   <br/><br/>
 </div>
 
+
+<!--
+
+
 <p><strong>
 I'm a Full Stack developer from India, currently in my second year of Computer Science Engineering. I’m passionate about backend development, cloud computing, and building scalable, real-world systems that solve meaningful problems.
 </strong></p>
@@ -54,7 +58,7 @@ I'm currently focused on mastering Java backend frameworks, cloud infrastructure
 
   <img src="https://github-readme-stats.vercel.app/api?username=skywalker690&show_icons=true&theme=codeSTACKr&hide_border=true" alt="GitHub Stats"/>
 
-  <!-- GitHub Stats for Skywalker690 (Dark Mode Only) -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Skywalker690/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/Skywalker690/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
@@ -64,6 +68,8 @@ I'm currently focused on mastering Java backend frameworks, cloud infrastructure
 
 </div>
 <h></h>
+
+-->
 
 <!--
 
