@@ -9,7 +9,7 @@
 </div>
 
 
-<!--
+
 
 
 <p><strong>
@@ -28,7 +28,7 @@ Recently, I've been diving deep into distributed systems and event-driven archit
 My current tech stack includes Java, Spring Boot, Kafka, Graphql, Postgresql, AWS, and Docker. I'm on a journey to master cloud-native backend engineering and become a high-impact Java + Cloud Developer.
 </strong></p>
 
-<h2><strong>About Me</strong></h2>
+<!--<h2><strong>About Me</strong></h2>
 
 <p><strong>
 I am a backend and cloud-focused developer with a strong foundation in Full Stack capabilities. My coding journey started with a love for building things that improve workflows and simplify life.
@@ -41,15 +41,17 @@ While I'm comfortable working across the stack, I enjoy working with backend tec
 <p><strong>
 I'm currently focused on mastering Java backend frameworks, cloud infrastructure (mainly AWS), and Kafka for real-time data pipelines and microservices communication. My long-term goal is to become a top-tier Java Backend + Cloud Engineer, contributing to large-scale distributed systems with clean, scalable, and production-ready code.
 </strong></p>
+-->
 
 <h2 align="center"><strong>⚒️ Languages - Frameworks - Tools I've Used ⚒️</strong></h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,postman,kafka,graphql,aws,idea,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,postman,kafka,graphql,aws,idea,git,docker,redis" />
   <br/><br/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,react,mongodb,vercel,npm,python,javascript,c,fastapi,vite,firebase,nodejs,mysql,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,react,mongodb,vercel,npm,python,javascript,c,fastapi,vite,firebase,nodejs,mysql,github,vscode,linux,bash,figma,nginx," />
   <br/>
 </div>
+
 
 <h2><strong>📊 GitHub Stats</strong></h2>
 
@@ -69,7 +71,7 @@ I'm currently focused on mastering Java backend frameworks, cloud infrastructure
 </div>
 <h></h>
 
--->
+
 
 <!--
 
