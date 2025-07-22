@@ -13,7 +13,7 @@
 
 
 <p><strong>
-I'm a Full Stack developer from India, currently in my second year of Computer Science Engineering. I’m passionate about backend development, cloud computing, and building scalable, real-world systems that solve meaningful problems.
+I'm a Full Stack developer from India, I’m passionate about backend development, cloud computing, and building scalable, real-world systems that solve meaningful problems.
 </strong></p>
 
 <p><strong>
@@ -24,9 +24,7 @@ I specialize in server-side development using Java and Spring Boot, and I enjoy 
 Recently, I've been diving deep into distributed systems and event-driven architecture using Apache Kafka. I'm particularly interested in how microservices can communicate reliably and efficiently through asynchronous messaging.
 </strong></p>
 
-<p><strong>
-My current tech stack includes Java, Spring Boot, Kafka, Graphql, Postgresql, AWS, and Docker. I'm on a journey to master cloud-native backend engineering and become a high-impact Java + Cloud Developer.
-</strong></p>
+
 
 <!--<h2><strong>About Me</strong></h2>
 
@@ -46,11 +44,12 @@ I'm currently focused on mastering Java backend frameworks, cloud infrastructure
 <h2 align="center"><strong>⚒️ Languages - Frameworks - Tools I've Used ⚒️</strong></h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,postman,kafka,graphql,aws,idea,git,docker,redis" />
-  <br/><br/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,react,mongodb,vercel,npm,python,javascript,c,fastapi,vite,firebase,nodejs,mysql,github,vscode,linux,bash,figma,nginx," />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,postman,kafka,graphql,aws,nginx,idea,git,docker,redis" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,react,mongodb,npm,python,javascript,c,vite,firebase,nodejs,mysql,github,vscode,linux,bash,&perline=9" />
   <br/>
 </div>
+
 
 
 <h2><strong>📊 GitHub Stats</strong></h2>
