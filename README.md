@@ -32,4 +32,6 @@ Recently, I've been diving deep into **distributed systems** and **event-driven 
 </div>
 </details>
 
+#### Projects:
 
+* You’ll find some of my backend-focused projects pinned on my profile — built with love, logs, and a strong dose of real-world architecture.
