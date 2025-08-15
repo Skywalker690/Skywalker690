@@ -19,7 +19,7 @@ Recently, I've been diving deep into **distributed systems** and **event-driven 
             <img src="https://github-readme-stats.vercel.app/api?username=skywalker690&show_icons=true&theme=codeSTACKr&hide_border=true&cache=0" alt="GitHub Stats"/>
         </p>
         <p align="center">
-            <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=skywalker690&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"> </div>
+            <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=skywalker690&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=2&column=4&cache=0"> </div>
         </p>
     </div>
 </details>
