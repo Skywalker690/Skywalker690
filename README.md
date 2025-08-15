@@ -8,6 +8,28 @@ I specialize in server-side development using **Java** and **Spring Boot**, and 
 
 Recently, I've been diving deep into **distributed systems** and **event-driven architecture** using **Apache Kafka**. I'm particularly interested in how microservices can communicate reliably and efficiently through asynchronous messaging.
 
-#### Projects:
 
-* You’ll find some of my backend-focused projects pinned on my profile — built with love, logs, and a strong dose of real-world architecture.
+
+<details>
+  <summary>💻 GitHub Profile Stats</summary>
+    <div>
+        <h2 align="center">📊 Github Stats</h2>
+        <br />
+        <p align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=skywalker690&show_icons=true&theme=codeSTACKr&hide_border=true&cache=0" alt="GitHub Stats"/>
+        </p>
+        <p align="center">
+            <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ardr000005&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"> </div>
+        </p>
+    </div>
+</details>
+
+<details>
+    <summary>⚙️ Languages - Frameworks - Tools I've Used</summary>
+   <div align="center">
+      <h2 align="center"><strong>⚒️ Languages - Frameworks - Tools I've Used ⚒️</strong></h2>
+      <img src="https://skillicons.dev/icons?i=java,spring,react,tailwind,postgres,kafka,graphql,aws,idea,postman,git" />
+</div>
+</details>
+
+
