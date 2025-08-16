@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m [**Sanjo**](https://my-portfolio-unst.vercel.app/), a Full Stack Developer based in India.
+I’m [**Sanjo**](https://my-portfolio-unst.vercel.app/), a Computer Science student based in India.
 
 I’m passionate about backend development, cloud computing, and building scalable, real-world systems that solve meaningful problems.
 
@@ -16,7 +16,7 @@ Recently, I've been diving deep into **distributed systems** and **event-driven 
         <h2 align="center">📊 Github Stats</h2>
         <br />
         <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=skywalker690&show_icons=true&theme=codeSTACKr&hide_border=true&cache=0" alt="GitHub Stats"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=skywalker690&show_icons=true&theme=codeSTACKr&hide_border=true&cache=1" alt="GitHub Stats"/>
         </p>
         <p align="center">
             <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=skywalker690&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=2&column=4&cache=0"> </div>
