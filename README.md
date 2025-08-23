@@ -28,7 +28,7 @@ Recently, I've been diving deep into **distributed systems** and **event-driven 
     <summary>⚙️ Languages - Frameworks - Tools I've Used</summary>
    <div align="center">
       <h2 align="center"><strong>⚒️ Languages - Frameworks - Tools I've Used ⚒️</strong></h2>
-      <img src="https://skillicons.dev/icons?i=java,spring,react,tailwind,postgres,kafka,graphql,aws,idea,postman,git" />
+      <img src="https://skillicons.dev/icons?i=java,spring,react,tailwind,postgres,kafka,aws,docker,jenkins,idea,postman,git" />
 </div>
 </details>
 
