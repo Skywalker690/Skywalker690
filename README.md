@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m [**Sanjo**](https://my-portfolio-unst.vercel.app/), a Computer Science student based in India.
+I’m [**Sanjo**](https://sanjoksiby.vercel.app/), a Computer Science student based in India.
 
 I’m passionate about backend development, cloud computing, and building scalable, real-world systems that solve meaningful problems.
 
