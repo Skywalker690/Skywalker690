@@ -9,8 +9,6 @@ No tool is used for show; every decision has a reason.
 Recently, I’ve been implementing Kafka to support asynchronous event-driven communication.
 Some workflows break under synchronous REST, and distributed messaging handles those cases better.
 
----
-
 <details>
   <summary><strong>📊 GitHub Overview</strong></summary>
   <br>
