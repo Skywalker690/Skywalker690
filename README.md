@@ -1,13 +1,13 @@
 ### Hey 👋
 
-I work on backend engineering with Java, Spring Boot, and PostgreSQL, focusing on systems that stay predictable under real load, not just in controlled demos.
-I emphasize clean service boundaries, stable data flow, and code that remains understandable months later.
+I'm a Backend engineer working with Java, Spring Boot, and PostgreSQL. I design services that survive production load: 
+clear ownership of data, failure-tolerant requests, and pipelines that don’t fall apart when traffic spikes.
 
-I use Docker for consistent deployments and AWS only when scaling or distributed environments actually require it.
-No tool is used for show; every decision has a reason.
+I containerize everything with Docker and only reach for AWS when horizontal 
+scaling or distributed design demands it — no buzzword deployments.
 
-Recently, I’ve been implementing Kafka to support asynchronous event-driven communication.
-Some workflows break under synchronous REST, and distributed messaging handles those cases better.
+Currently integrating Kafka to replace brittle synchronous chains: reducing cross-service 
+coupling, isolating failure domains, and turning workflows that used to stall into durable event flows.
 
 <details>
   <summary><strong>📊 GitHub Overview</strong></summary>
@@ -26,7 +26,7 @@ Some workflows break under synchronous REST, and distributed messaging handles t
   <summary><strong>⚙️ Stack I Actually Use</strong></summary>
   <br>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,kafka,aws,docker,jenkins,git,postman,idea" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,aws,docker,jenkins,git,postman,idea" />
   </p>
 </details>
 
