@@ -1,20 +1,15 @@
 ### Hey 👋
 
-I'm a Backend engineer working with Java, Spring Boot, and PostgreSQL. I design services that survive production load: 
-clear ownership of data, failure-tolerant requests, and pipelines that don’t fall apart when traffic spikes.
+I mostly build backend systems in Java, Spring Boot, and PostgreSQL with a focus on correctness, observability, and predictable behavior under load. I design services with clear data ownership, resilient request handling, and architectures that hold up when traffic spikes instead of collapsing.
 
-I containerize everything with Docker and only reach for AWS when horizontal 
-scaling or distributed design demands it — no buzzword deployments.
-
-Currently integrating Kafka to replace brittle synchronous chains: reducing cross-service 
-coupling, isolating failure domains, and turning workflows that used to stall into durable event flows.
+Packaging everything in Docker and use AWS only when it solves real scaling or distribution problems — not for trendy deployments. I’m currently integrating Kafka to eliminate fragile synchronous workflows, cut cross-service coupling, isolate failures, and turn slow request chains into durable, event-driven pipelines.
 
 <details>
   <summary><strong>📊 GitHub Overview</strong></summary>
   <br>
   <p align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=skywalker690&show_icons=true&theme=codeSTACKr&hide_border=true&cache=1" alt="GitHub Stats"/>
-        </p>
+       f </p>
         <p align="center">
             <div align="center">
               <img src="https://github-profile-trophy.vercel.app/?username=skywalker690&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=2&column=4&cache=0">
