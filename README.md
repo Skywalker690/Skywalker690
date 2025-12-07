@@ -9,7 +9,7 @@ Packaging everything in Docker and use AWS only when it solves real scaling or d
   <br>
   <p align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=skywalker690&show_icons=true&theme=codeSTACKr&hide_border=true&cache=1" alt="GitHub Stats"/>
-       f </p>
+       </p>
         <p align="center">
             <div align="center">
               <img src="https://github-profile-trophy.vercel.app/?username=skywalker690&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=2&column=4&cache=0">
