@@ -1,8 +1,12 @@
-### Hey 👋
+###👋 Hi, I'm Sanjo
 
-I mostly build backend systems in Java, Spring Boot, and PostgreSQL with a focus on correctness, observability, and predictable behavior under load. I design services with clear data ownership, resilient request handling, and architectures that hold up when traffic spikes instead of collapsing.
+I’m a backend-focused developer who primarily works with **Java, Spring Boot, and PostgreSQL**. I enjoy building reliable backend systems with clean architecture, maintainable code, and efficient data handling.
 
-Packaging everything in Docker and use AWS only when it solves real scaling or distribution problems — not for trendy deployments. I’m currently integrating Kafka to eliminate fragile synchronous workflows, cut cross-service coupling, isolate failures, and turn slow request chains into durable, event-driven pipelines.
+My focus is on designing services that are stable, scalable, and easy to maintain. I aim to follow good engineering practices such as proper data management, clear service responsibilities, and structured API design.
+
+I also work with **Docker** for containerization and use **AWS** when cloud infrastructure is needed for deployment or scaling. Recently, I have been exploring **Apache Kafka** to build event-driven systems and improve communication between services.
+
+Currently, I’m focused on improving my backend engineering skills, system design knowledge, and building production-ready applications.
 
 <details>
   <summary><strong>📊 GitHub Overview</strong></summary>
