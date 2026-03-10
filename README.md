@@ -1,4 +1,4 @@
-###👋 Hi, I'm Sanjo
+### 👋 Hi, I'm Sanjo
 
 I’m a backend-focused developer who primarily works with **Java, Spring Boot, and PostgreSQL**. I enjoy building reliable backend systems with clean architecture, maintainable code, and efficient data handling.
 
